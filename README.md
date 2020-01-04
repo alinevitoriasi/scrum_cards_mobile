@@ -2,7 +2,7 @@
 
  Scrum Card Memes é um projeto para realização do Planning Poker, que consiste em uma técnica da metodologia ágil, Scrum, para estimativa do valor do esforço da realização de tarefas para o desenvolvimento de software.
 
- Com objetivo de desconstrair o ambiente de trabalho, nessas cartas do Planning poker, cada valor possui uma representação de uma imagem ou gif que tem teor humorístico, os chamado memes da internet.
+ Com objetivo de descontrair o ambiente de trabalho nas cartas do Planning Poker cada valor possui uma representação de uma imagem ou gif que tem teor humorístico, os chamado memes da internet.
 
 # Guia de Instalação Flutter
 
